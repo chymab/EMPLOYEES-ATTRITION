@@ -1,2 +1,2 @@
 # EMPLOYEES-ATTRITION
-This repository shows the attrition rate of employees in an organisation
+##THIS REPOSITORY SHOWS THE ATTRITION RATE OF EMPLOYEES  IN AN ORGANIZATION
