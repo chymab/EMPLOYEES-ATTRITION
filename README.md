@@ -1,12 +1,12 @@
-# EMPLOYEES-ATTRITION
+EMPLOYEES-ATTRITION
 
-##THIS REPOSITORY SHOWS THE ATTRITION RATE OF EMPLOYEES  IN AN ORGANIZATION
+THIS REPOSITORY SHOWS THE ATTRITION RATE OF EMPLOYEES  IN AN ORGANIZATION
 
 INTRODUCTION
 
 This project was done in the HR department of a company in Nigeria to analyse the attrition rate of employees and to know the active and none active employees in the company.
 
-##PROBLEM STATEMENT
+PROBLEM STATEMENT
 
 -To determine the highest  number of attrition in all the departments.
 -To record attrition base on educational qualifications.
@@ -15,14 +15,16 @@ This project was done in the HR department of a company in Nigeria to analyse th
 -To record the KPS and KPI of the collected data.
 -To  determine the employees that worked satisfactorily.
 
-##DATA SOURCE
+DATA SOURCE
 
 This data was culled online from an Analyst,posted by my instructor and reworked on by me.
-##SKILLS AND CONCEPTS
+
+SKILLS AND CONCEPTS
+
 This work is an excel project converted to tableau by me for more analysis.
 
 DATA ANALYSIS
-https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/Screenshot%20(32).png
+
 
 
 
