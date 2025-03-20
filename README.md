@@ -22,6 +22,7 @@ This data was culled online from an Analyst,posted by my instructor and reworked
 This work is an excel project converted to tableau by me for more analysis.
 
 DATA ANALYSIS
+https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/Screenshot%20(32).png
 
 
 
