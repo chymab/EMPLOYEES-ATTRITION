@@ -1,12 +1,12 @@
-EMPLOYEES-ATTRITION
+#EMPLOYEES-ATTRITION
 
-THIS REPOSITORY SHOWS THE ATTRITION RATE OF EMPLOYEES  IN AN ORGANIZATION
+##THIS REPOSITORY SHOWS THE ATTRITION RATE OF EMPLOYEES  IN AN ORGANIZATION
 
-INTRODUCTION
+###INTRODUCTION
 
 This project was done in the HR department of a company in Nigeria to analyse the attrition rate of employees and to know the active and none active employees in the company.
 
-PROBLEM STATEMENT
+###PROBLEM STATEMENT
 
 -To determine the highest  number of attrition in all the departments.
 -To record attrition base on educational qualifications.
@@ -15,20 +15,20 @@ PROBLEM STATEMENT
 -To record the KPS and KPI of the collected data.
 -To  determine the employees that worked satisfactorily.
 
-DATA SOURCE
+###DATA SOURCE
 
 This data was culled online from an Analyst,posted by my instructor and reworked on by me.
 
-SKILLS AND CONCEPTS
+###SKILLS AND CONCEPTS
 
 This work is an excel project converted to tableau by me for more analysis.
 
-DATA ANALYSIS
+###DATA ANALYSIS
 
 
 
 
-VISUALISATION
+###VISUALISATION
 -An all round survey of the employees data were done before the commencement of the analysis.
 -I was able to calculate different attrition rate base on departments,qualifications,age and gender.
 -I was also able to calculate the KPS and KPI of the whole data collected,including how the employees worked satisfacctorily.
@@ -38,7 +38,7 @@ VISUALISATION
 -Those within the ages of 25-34 who are male left the company.
 -Both male and female employees are still single.
 
-RECOMMENDATION
+###RECOMMENDATION
 
 -From my analysis,it can be seen that the employees in the highest attrition are all youths and single,therefore i recommend that married people should be considered more during interviews because my analysis shows that they cherish their job more than the younger ones.
 
