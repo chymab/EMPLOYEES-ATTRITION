@@ -24,21 +24,24 @@ This work is an excel project converted to tableau by me for more analysis.
 DATA ANALYSIS
 
 
+
 VISUALISATION
 -An all round survey of the employees data were done before the commencement of the analysis.
 -I was able to calculate different attrition rate base on departments,qualifications,age and gender.
--I wwas also able to calculate the KPS and KPI of the whole data collected,including how the employees worked satisfacctorily.
+-I was also able to calculate the KPS and KPI of the whole data collected,including how the employees worked satisfacctorily.
 -I was able to put in place the grand total of all the job roles in the different department.
-
+-In education,i gathered that many employees in life sciences left the company.
+-Also the sales executive carried out their jobs satisfactorily more than the other departments.
+-Those within the ages of 25-34 who are male left the company.
+-Both male and female employees are still single.
 
 RECOMMENDATION
 
--From my analysis,it can be seen that those who has completed their payment are in greater number compared to those who have not.
+-From my analysis,it can be seen that the employees in the highest attrition are all youths and single,therefore i recommend that married people should be considered more during interviews because my analysis shows that they cherish their job more than the younger ones.
 
--Also the time frame it took majority of them to finish their payment is between one to ten years,therefore i recommend that those still owing who have not reach the maximum years of most of the fully paid should also be given more time to complete their payment.
+-Enquiries should be made on the department of life science to identify the reason for the high rate of attrition (if they were sacked or resigned).
 
--Also,i filtered those whose payment were not verified and source verified leaving only the verified in the verification status for easy documentation.
+-The sales executives should be appreciated at the end of the year to encourage them to work harder the coming year and those who need to be promoted should be given promotion to boost the morale of the other employees targetting promotion.
 
--I also gathered from the analysis that the fully paid are mostly those under mortgage and rent,therefore it is advisable to continue rentage and mortgage because the percentage of compliers are higher and will help to generate more income for the company.
-
+-Because of the high rate of male youth attrition,i think their reason for leaving should be verified and recorded to avoid future occurrance.
 
