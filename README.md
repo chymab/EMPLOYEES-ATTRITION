@@ -25,8 +25,8 @@ This work is an excel project converted to tableau by me for more analysis.
 
 ###DATA ANALYSIS
 
-
-! ![image](https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/ATTRITIONDASHBOARD.png) | ![image](https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/JOBSATISFACTIONRATE.png) |
+![image](https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/ATTRITIONDASHBOARD.png) 
+![image](https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/JOBSATISFACTIONRATE.png) 
 
 
 ###VISUALISATION
