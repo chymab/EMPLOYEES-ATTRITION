@@ -9,10 +9,15 @@ This project was done in the HR department of a company in Nigeria to analyse th
 PROBLEM STATEMENT
 
 -To determine the highest  number of attrition in all the departments.
+
 -To record attrition base on educational qualifications.
+
 -To determine the highest age group that was dismissed or resigned overtime.
+
 -To count attrition base on gender.
+
 -To record the KPS and KPI of the collected data.
+
 -To  determine the employees that worked satisfactorily.
 
 DATA SOURCE
@@ -32,12 +37,19 @@ DATA ANALYSIS
 VISUALIZATION
 
 -An all round survey of the employees data were done before the commencement of the analysis.
+
 -I was able to calculate different attrition rate base on departments,qualifications,age and gender.
+
 -I was also able to calculate the KPS and KPI of the whole data collected,including how the employees worked satisfacctorily.
+
 -I was able to put in place the grand total of all the job roles in the different department.
+
 -In education,i gathered that many employees in life sciences left the company.
+
 -Also the sales executive carried out their jobs satisfactorily more than the other departments.
+
 -Those within the ages of 25-34 who are male left the company.
+
 -Both male and female employees are still single.
 
 RECOMMENDATION
