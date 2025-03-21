@@ -17,8 +17,6 @@ This project was done in the HR department of a company in Nigeria to analyse th
 
 ###DATA SOURCE
 
-![]https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/Screenshot%20(32).png)
-
 This data was culled online from an Analyst,posted by my instructor and reworked on by me.
 
 ###SKILLS AND CONCEPTS
@@ -27,6 +25,8 @@ This work is an excel project converted to tableau by me for more analysis.
 
 ###DATA ANALYSIS
 
+
+![(EMPLOYEES-ATTRITION/blob/main/Screenshot%20(32).png)]
 
 
 
