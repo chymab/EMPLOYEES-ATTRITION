@@ -26,7 +26,7 @@ This work is an excel project converted to tableau by me for more analysis.
 ###DATA ANALYSIS
 
 
-![image]([https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/Screenshot%20(32).png)
+![image](https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/ATTRITIONDASHBOARD.png)
 
 ###VISUALISATION
 -An all round survey of the employees data were done before the commencement of the analysis.
