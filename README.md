@@ -29,7 +29,8 @@ DATA ANALYSIS
 ![image](https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/JOBSATISFACTIONRATE.png) 
 
 
-VISUALIzATION
+VISUALIZATION
+
 -An all round survey of the employees data were done before the commencement of the analysis.
 -I was able to calculate different attrition rate base on departments,qualifications,age and gender.
 -I was also able to calculate the KPS and KPI of the whole data collected,including how the employees worked satisfacctorily.
