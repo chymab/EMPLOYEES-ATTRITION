@@ -28,6 +28,7 @@ This work is an excel project converted to tableau by me for more analysis.
 
 ![image](https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/ATTRITIONDASHBOARD.png)
 
+![image](https://github.com/chymab/EMPLOYEES-ATTRITION/blob/main/JOBSATISFACTIONRATE.png)
 ###VISUALISATION
 -An all round survey of the employees data were done before the commencement of the analysis.
 -I was able to calculate different attrition rate base on departments,qualifications,age and gender.
